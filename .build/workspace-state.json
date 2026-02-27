@@ -1,0 +1,122 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/libswresample.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "libswresample"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/ffmpegkit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "ffmpegkit"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/libswscale.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "libswscale"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/libavcodec.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "libavcodec"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/libavdevice.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "libavdevice"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/libavutil.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "libavutil"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/libavfilter.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "libavfilter"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "ffmpeg-kit-macos-full",
+          "kind" : "root",
+          "location" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full",
+          "name" : "ffmpeg-kit-macos-full"
+        },
+        "path" : "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Frameworks/libavformat.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "libavformat"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}
