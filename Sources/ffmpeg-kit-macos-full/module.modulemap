@@ -1,0 +1,4 @@
+module ffmpeg_kit_macos_full {
+    header "ffmpeg-kit-macos-full.h"
+    export *
+}
