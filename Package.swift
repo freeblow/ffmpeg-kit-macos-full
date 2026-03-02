@@ -9,15 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "ffmpeg-kit-macos-full",
-            targets: ["ffmpeg-kit-macos-full"]
-        )
-    ],
-    targets: [
-
-        // 主聚合 target
-        .target(
-            name: "ffmpeg-kit-macos-full",
-            dependencies: [
+            targets: [
                 "ffmpegkit",
                 "libavcodec",
                 "libavdevice",
@@ -26,24 +18,10 @@ let package = Package(
                 "libavutil",
                 "libswresample",
                 "libswscale"
-            ],
-            linkerSettings: [
-                .linkedLibrary("z"),
-                .linkedLibrary("bz2"),
-                .linkedLibrary("c++"),
-                .linkedLibrary("iconv"),
-
-                .linkedFramework("AudioToolbox"),
-                .linkedFramework("AVFoundation"),
-                .linkedFramework("CoreAudio"),
-                .linkedFramework("CoreImage"),
-                .linkedFramework("CoreMedia"),
-                .linkedFramework("OpenCL"),
-                .linkedFramework("OpenGL"),
-                .linkedFramework("Security"),
-                .linkedFramework("VideoToolbox")
             ]
-        ),
+        )
+    ],
+    targets: [
 
         // 每个 xcframework 都是一个 binaryTarget
 

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/.build/arm64-apple-macosx/debug/ffmpeg_kit_macos_full.build/master.swiftdeps"
+  },
+  "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/Source/ffmpeg-kit-macos-full/Empty.swift": {
+    "dependencies": "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/.build/arm64-apple-macosx/debug/ffmpeg_kit_macos_full.build/Empty.d",
+    "object": "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/.build/arm64-apple-macosx/debug/ffmpeg_kit_macos_full.build/Empty.swift.o",
+    "swiftmodule": "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/.build/arm64-apple-macosx/debug/ffmpeg_kit_macos_full.build/Empty~partial.swiftmodule",
+    "swift-dependencies": "/Users/xtxk/Desktop/Demo/ffmpeg-kit-macos-full/.build/arm64-apple-macosx/debug/ffmpeg_kit_macos_full.build/Empty.swiftdeps"
+  }
+}
